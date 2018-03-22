@@ -1,0 +1,10 @@
+C:\Users\Стасися\source\repos\NFS\NFS\obj\Debug\NFS.csprojResolveAssemblyReference.cache
+C:\Users\Стасися\source\repos\NFS\NFS\obj\Debug\NFS.csproj.CoreCompileInputs.cache
+C:\Users\Стасися\source\repos\NFS\NFS\bin\Debug\NFS.exe.config
+C:\Users\Стасися\source\repos\NFS\NFS\bin\Debug\NFS.exe
+C:\Users\Стасися\source\repos\NFS\NFS\bin\Debug\NFS.pdb
+C:\Users\Стасися\source\repos\NFS\NFS\bin\Debug\Source.dll
+C:\Users\Стасися\source\repos\NFS\NFS\bin\Debug\Source.pdb
+C:\Users\Стасися\source\repos\NFS\NFS\obj\Debug\NFS.csproj.CopyComplete
+C:\Users\Стасися\source\repos\NFS\NFS\obj\Debug\NFS.exe
+C:\Users\Стасися\source\repos\NFS\NFS\obj\Debug\NFS.pdb

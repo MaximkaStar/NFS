@@ -1,0 +1,6 @@
+C:\Users\Стасися\source\repos\NFS\Source\bin\Debug\Source.dll
+C:\Users\Стасися\source\repos\NFS\Source\bin\Debug\Source.pdb
+C:\Users\Стасися\source\repos\NFS\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\Стасися\source\repos\NFS\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\Стасися\source\repos\NFS\Source\obj\Debug\Source.dll
+C:\Users\Стасися\source\repos\NFS\Source\obj\Debug\Source.pdb
